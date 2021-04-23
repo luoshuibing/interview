@@ -1,4 +1,4 @@
-package com.fm.lombok;
+package com.jd.lombok;
 
 import lombok.*;
 import lombok.experimental.Accessors;
