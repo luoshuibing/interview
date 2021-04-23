@@ -1,4 +1,4 @@
-package com.fm.niuke;
+package com.jd.niuke;
 
 /**
  * @author FM
