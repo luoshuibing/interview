@@ -1,8 +1,8 @@
 package com.jd;
 
-import com.fm.thread.ShareData;
-import com.fm.thread.ShareResource;
-import com.fm.thread.TicketPool;
+import com.jd.thread.ShareData;
+import com.jd.thread.ShareResource;
+import com.jd.thread.TicketPool;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 
